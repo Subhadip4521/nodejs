@@ -1,9 +1,5 @@
-
-1718523529605 : New request received
-1718523529783 : New request received
-1718523539046 : New request received
-1718523539220 : New request received
-1718523570173 : /about : New request received
-1718523570330 : /favicon.ico : New request received
-1718523592132 : / : New request received
-1718523592271 : /favicon.ico : New request received
+1718556181820 : / : / : New request received
+1718556201409 : / : / : New request received
+1718556209754 : GET : / : New request received
+1718556230888 : GET : /about : New request received
+1718556241056 : GET : /about : New request received
